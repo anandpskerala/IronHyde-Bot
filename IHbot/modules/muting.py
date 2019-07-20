@@ -368,7 +368,7 @@ __help__ = """
 """
 
 
-__mod_name__ = "Muting & Restricting"
+__mod_name__ = "Muting"
 
 MUTE_HANDLER = CommandHandler("mute", mute, pass_args=True, filters=Filters.group)
 UNMUTE_HANDLER = CommandHandler("unmute", unmute, pass_args=True, filters=Filters.group)
