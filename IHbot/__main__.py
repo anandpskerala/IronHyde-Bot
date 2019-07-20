@@ -30,7 +30,6 @@ You can find the list of available commands with /help.
 
 [Click here to add me in your groups](https://telegram.me/MissXmia_bot?startgroup=add)
 
-Free Hai Bro!
 """
 
 HELP_STRINGS = """
@@ -150,7 +149,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("Zinda Hu Abhi :p ")
+        update.effective_message.reply_text("Hey am alive :) ")
 
 
 # for test purposes
