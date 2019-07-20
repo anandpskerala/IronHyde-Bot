@@ -21,3 +21,4 @@ Pillow>=4.2.0
 hurry.filesize
 #translator
 beautifulsoup4==4.6.3
+tldextract
