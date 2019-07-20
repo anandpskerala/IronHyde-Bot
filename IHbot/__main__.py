@@ -24,12 +24,11 @@ Hello {}, my name is {}!
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library \
 
-My sources available here Https://github.com/Prakasaka/IronHyde-Bot
 
 
 You can find the list of available commands with /help.
 
-[Click here to add me in your groups](https://telegram.me/TheThuggBot?startgroup=add)
+[Click here to add me in your groups](https://telegram.me/MissXmia_bot?startgroup=add)
 
 Free Hai Bro!
 """
